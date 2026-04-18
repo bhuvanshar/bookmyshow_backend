@@ -1,6 +1,0 @@
-com\bookmyshow\controller\AuthControllerTest$MockConfig.class
-com\bookmyshow\service\MovieServiceTest.class
-com\bookmyshow\ConcurrencyBookingTest.class
-com\bookmyshow\controller\AuthControllerTest.class
-com\bookmyshow\service\PaymentServiceTest.class
-com\bookmyshow\service\BookingServiceTest.class
